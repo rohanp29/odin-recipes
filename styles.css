@@ -1,15 +1,16 @@
 body {
     font-family: 'Brush Script MT', sans-serif;
-    background-color: forestgreen;
+    background-color: #ebc034;
 }
 
 h1 {
     width: 800px;
     text-align: center;
-    color: #9a52e3;
+    color: #543d18;
     font-size: 5em;
-    background-color: grey;
+    background-color: #dec49b;
     margin: 0px auto;
+    border-radius: 10px;
 }
 
 .recipe-list {
@@ -20,12 +21,15 @@ h1 {
 
 .recipe {
     text-decoration: none;
-    color: #52e3e3;
+    color: #543d18;
     font-weight: 100;
-    background-color: grey;
+    background-color: #dec49b;
     width: auto;
     padding: 5px;
     margin: 10px auto;
     display: inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    font-size: 16px;
 }
 
